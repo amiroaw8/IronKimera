@@ -4,11 +4,13 @@
 ### سامانه پیشرفته پردازش لبه ابری متصل به پایگاه‌داده توزیع‌شده Cloudflare D1
 **Next-Generation Edge Computing System & Web Dashboard Powered by Cloudflare Workers & D1**
 
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@IronKimeraBot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IronKimeraBot)
+[![Telegram Channel](https://img.shields.io/badge/Channel-@IronKimera-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IronKimera)
 [![License: MIT](https://img.shields.io/badge/License-MIT-amber.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers_&_D1-orange?style=for-the-badge&logo=cloudflare)](https://workers.cloudflare.com/)
 [![Protocols](https://img.shields.io/badge/Protocols-VLESS%20%7C%20Trojan%20%7C%20SS-blueviolet?style=for-the-badge)](#-امکانات-کلیدی)
-[![Human Rights](https://img.shields.io/badge/UN%20UDHR-Article%2019-success?style=for-the-badge)](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 [![Status](https://img.shields.io/badge/Status-Zero--SPOF%20%26%20Decentralized-blue?style=for-the-badge)](#-امکانات-کلیدی)
+[![Human Rights](https://img.shields.io/badge/UN%20UDHR-Article%2019-success?style=for-the-badge)](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 
 <br/>
 
@@ -16,7 +18,7 @@
 
 <br/>
 
-**[✨ امکانات](#-امکانات-کلیدی) • [🤖 راه‌اندازی از طریق ربات تلگرام](#-نحوه-راه‌اندازی-سریع-با-ربات-تلگرام) • [🔒 حریم خصوصی](#-حریم-خصوصی-و-معماری) • [⚖️ بیانیه حقوقی](#-بیانیه-حقوقی-و-پژوهشی--legal-disclaimer)**
+**[✨ امکانات](#-امکانات-کلیدی) • [🤖 ربات تلگرام (@IronKimeraBot)](https://t.me/IronKimeraBot) • [📢 کانال تلگرام (@IronKimera)](https://t.me/IronKimera) • [🔒 حریم خصوصی](#-حریم-خصوصی-و-معماری)**
 
 ---
 
@@ -54,9 +56,16 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 
 ## 🤖 نحوه راه‌اندازی سریع با ربات تلگرام
 
-برای استقرار و دریافت پنل اختصاصی، کل فرآیند از طریق ربات تلگرام در کمتر از ۱۰ ثانیه انجام می‌پذیرد:
+برای استقرار و دریافت پنل اختصاصی، کل فرآیند از طریق ربات رسمی تلگرام انجام می‌پذیرد:
 
-1. وارد ربات تلگرامی **IronKimera Deployer** شوید.
+<div align="center">
+
+### 🚀 [ورود مستقیم به ربات تلگرام (@IronKimeraBot)](https://t.me/IronKimeraBot)
+**📢 [عضویت در کانال رسمی اطلاع‌رسانی (@IronKimera)](https://t.me/IronKimera)**
+
+</div>
+
+1. وارد ربات **[@IronKimeraBot](https://t.me/IronKimeraBot)** شوید.
 2. دستور `/start` را ارسال فرمایید.
 3. کلید دسترسی کلودفلر (**Cloudflare API Token**) با مجوزهای `Workers: Edit` و `D1: Edit` را برای ربات بفرستید.
 4. ربات به صورت خودکار:
@@ -76,7 +85,7 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 
 ## 🤝 مشارکت و ارتباط
 
-مشارکت در بهبود این پروژه آزاد است:
+مشارکت در بهبود این پروژه متن‌باز آزاد است:
 - برای ثبت بازخورد یا گزارش‌ها، می‌توانید از بخش [Issues](https://github.com) استفاده کنید.
 
 ---
@@ -86,5 +95,5 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 این پروژه تحت قوانین **لایسنس بین‌المللی [MIT](LICENSE)** منتشر شده است. استفاده و اشتراک‌گذاری با حفظ حقوق سازندگان آزاد است.
 
 <div align="center">
-  <sub>به امید آزای🎈</sub>
+  <sub>به امید آزادی 🎈</sub>
 </div>
