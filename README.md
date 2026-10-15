@@ -76,7 +76,7 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 
 ## 🤝 مشارکت و ارتباط
 
-مشارکت در بهبود این پروژه متن‌باز آزاد است:
+مشارکت در بهبود این پروژه آزاد است:
 - برای ثبت بازخورد یا گزارش‌ها، می‌توانید از بخش [Issues](https://github.com) استفاده کنید.
 
 ---
@@ -86,5 +86,5 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 این پروژه تحت قوانین **لایسنس بین‌المللی [MIT](LICENSE)** منتشر شده است. استفاده و اشتراک‌گذاری با حفظ حقوق سازندگان آزاد است.
 
 <div align="center">
-  <sub>دژ کیمرای آهنین 🛡️ پایداری، سرعت و آزادی ارتباطات ابری</sub>
+  <sub>به امید آزای🎈</sub>
 </div>
