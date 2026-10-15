@@ -58,7 +58,6 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 ## 📂 ساختار دارایی‌ها و منابع مخزن
 
 ```bash
-├── bot_banner.jpg          # بنر سینمایی پیش‌نمایش تلگرام و معرفی پروژه (16:9)
 ├── welcome_banner.jpg      # نشان اختصاصی کیمرای باستانی-مکانیکی (Cyber Beast)
 ├── IronKimera.svg          # لوگوی وکتور رسمی پروژه (Dark Obsidian & Glowing Amber)
 ├── ips.txt                 # استخر آی‌پی‌های تمیز شافل‌شده (بیش از ۳۷ هزار ردیف)
