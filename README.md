@@ -66,7 +66,7 @@ The maintainers assume no liability for misuse, third-party operational disrupti
 </div>
 
 1. وارد ربات **[@IronKimeraBot](https://t.me/IronKimeraBot)** شوید.
-2. دستور `/start` را ارسال فرمایید.
+2. دستور `start/` را ارسال فرمایید.
 3. کلید دسترسی کلودفلر (**Cloudflare API Token**) با مجوزهای `Workers: Edit` و `D1: Edit` را برای ربات بفرستید.
 4. ربات به صورت خودکار:
    - پایگاه‌داده D1 را روی حساب ابری شما فعال می‌کند.
